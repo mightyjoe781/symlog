@@ -25,7 +25,7 @@ int main(){
 					 //squareOfOpposition();
 					 break;
 			case 2 : cout << "Input Format : <mode(3)> <major prep> <minor prep> <conclusion>"<<endl;
-					 arguementsSolver();
+					 argumentsSolver();
 					 break;
 			case 3 : cout << "===== Help Document =====" <<endl;
 					 help();
