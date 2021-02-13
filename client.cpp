@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "sqaureOfOpposition.cpp"
+#include "squareOfOpposition.cpp"
 #include "argumentsSolver.cpp"
 using namespace std;
 
