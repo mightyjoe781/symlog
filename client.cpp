@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include "sqaureOfOpposition.cpp"
 #include "argumentsSolver.cpp"
 using namespace std;
 
@@ -22,7 +23,7 @@ int main(){
 		cin >> c;
 		switch(c){
 			case 1 : cout << "Input Format : <Argument> <boolean>" << endl;
-					 //squareOfOpposition();
+					 squareOfOpposition();
 					 break;
 			case 2 : cout << "Input Format : <mode(3)> <major prep> <minor prep> <conclusion>"<<endl;
 					 argumentsSolver();
